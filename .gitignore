@@ -1,4 +1,5 @@
-# Python
+# Python packaging
+/build
 /dist/
 /*.egg-info
 venv
