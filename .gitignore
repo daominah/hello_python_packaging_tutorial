@@ -1,0 +1,10 @@
+# Python
+/dist/
+/*.egg-info
+venv
+*.pyc
+
+# ide
+.vscode/**
+.idea/**
+*.iml
